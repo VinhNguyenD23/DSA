@@ -1,0 +1,5 @@
+# [ignore folders]
+.vscode
+.cph
+# [ignore file]
+*.exe
