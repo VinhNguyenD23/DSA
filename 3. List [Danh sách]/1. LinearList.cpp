@@ -5,7 +5,7 @@ class linearList
 {
 private:
     T *mNodes;
-    int mSize;
+    size_t mSize;
     int mCapacity = INT32_MAX;
 
 public:
